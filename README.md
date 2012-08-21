@@ -1,7 +1,7 @@
 Bayesian Naive Bayes (BNB)
 ==========================
 
-This is an implementation of unsupervised Bayesian Naive Bayes with Gibbs sampling.
+This is an implementation of unsupervised Bayesian Naive Bayes with Gibbs sampling. Although it is efficient enough to be applied to real data it should not be viewed as a stable tool.
 
 Background
 ----------
