@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 import numpy as np
-import scipy as sp
-import random, math
+import random
 
 import cPickle
 from sys import stderr, exit
